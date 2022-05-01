@@ -1,0 +1,25 @@
+{
+  "name": "weatherapp-main",
+  "version": "1.0.0",
+  "description": "A simple weather application for you to type in a city and check the current weather.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaimky1/weatherApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaimky1/weatherApplication/issues"
+  },
+  "homepage": "https://github.com/kaimky1/weatherApplication#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
